@@ -20,7 +20,7 @@ the [Federal Republic of Germany][deutschland], the birthplace of [the first ful
 automatic, programmable, digital computer][computer]! 
 
 [Admiral Grace Hopper][hopper], on the other hand, was an American computer scientist and United States Navy  
-admiral. She was a pioneer of computer programming who popularized the idea of 
+admiral   . She was a pioneer of computer programming who popularized the idea of 
 machine-independent programming languages, which led to the development of COBOL.
 
 ## Deliverables
